@@ -20,3 +20,6 @@ Sistema de gestão de cursos online desenvolvido em C# utilizando Entity Framewo
 ## Como executar
 1. Clone o repositório
 2. Execute as migrations:
+ Update-Database
+
+3. Rode o projeto ConsoleApp
