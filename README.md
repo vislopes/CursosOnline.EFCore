@@ -30,10 +30,10 @@ Online course management system developed in C# using Entity Framework Core.
 1. Clone the repository  
 
 2. Run the migrations:
-
-```bash id="mjlwmc"
 Update-Database
 
+------------------------------------------------------------------------------------------------------------------------------------------
+- Portuguese Version
 
 # CursosOnline.EFCore
 
